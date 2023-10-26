@@ -1,6 +1,16 @@
 # CRUDUsingNode.JS-Docker
 This an simple application demonstrating CRUD operations using NODE.JS EXPRESS.JS and DOCKER
 ---
+In this applciation
+ - we fetch the user details
+ - we post the user detail
+ - fetch by specific user id
+
+---
+Dockerizing the application
+ - It impelements dockerfile which includes instructions and details to create docker file
+ - It implements docker-compose file that include two services, web and mongoDB database
+---
 
 `Steps to run application`
  - open terminal
